@@ -34,6 +34,7 @@ Sistema em Python para controle e administração de um acervo de livros em uma 
 ├── controllers.py  # Regras de negócio, fluxo do sistema e manipulação da lista
 ├── main.py         # Arquivo principal para inicialização da aplicação
 └── README.md       # Documentação do projeto
+```
 
 ---
 
@@ -49,3 +50,4 @@ Sistema em Python para controle e administração de um acervo de livros em uma 
 
 ```bash
 python main.py
+```
