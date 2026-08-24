@@ -34,3 +34,18 @@ Sistema em Python para controle e administração de um acervo de livros em uma 
 ├── controllers.py  # Regras de negócio, fluxo do sistema e manipulação da lista
 ├── main.py         # Arquivo principal para inicialização da aplicação
 └── README.md       # Documentação do projeto
+
+---
+
+## 🚀 Como Executar
+
+### Pré-requisitos
+- Python 3.10 ou superior instalado no sistema.
+
+### Passo a Passo
+1. Clone ou baixe todos os arquivos do projeto no mesmo diretório.
+2. Abra o terminal ou prompt de comando na pasta do projeto.
+3. Execute o comando:
+
+```bash
+python main.py
